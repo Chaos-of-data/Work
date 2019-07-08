@@ -6,7 +6,7 @@ def my_max(*a):
             max = i
         else:
             max = max
-    return print(max)
+    return max
 
 
 # 2
@@ -17,7 +17,7 @@ def my_min(*a):
             min = i
         else:
             min = min
-    return print(min)
+    return min
 
 # 3
 def my_sum(*a):
